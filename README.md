@@ -2,10 +2,10 @@ Hi there 👋
 
 Languages and tools:
 
-PROGRAMMING: Javascript(JQuery) , (Typescript) // <br> 
-FRONTNED: HTML , CSS , Bootstrap , materializeweb //
-BACKEND: PHP // 
-DATABASE: MySQL - MariaDB //
+PROGRAMMING: Javascript(JQuery) , (Typescript) <br> 
+FRONTNED: HTML , CSS , Bootstrap , materializeweb <br> 
+BACKEND: PHP <br> 
+DATABASE: MySQL - MariaDB <br> 
 OTHER : git
 
 
