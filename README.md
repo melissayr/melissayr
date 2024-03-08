@@ -3,7 +3,7 @@ Hi there 👋
 Languages and tools:
 
 PROGRAMMING: Javascript(JQuery) , (Typescript) <br> 
-FRONTNED: HTML , CSS , Bootstrap , materializeweb <br> 
+FRONTEND: HTML , CSS , Bootstrap , materializeweb <br> 
 BACKEND: PHP <br> 
 DATABASE: MySQL - MariaDB <br> 
 OTHER : git
@@ -15,5 +15,5 @@ OTHER : git
 - 🤔 I’m looking for help with Typescript exercises
 - 💬 Ask me about everything you want :)
 - 📫 How to reach me: reim.melissa.y@gmail.com
-- ⚡ Fact: I almost program with music ♩ ♪ ♫ ♬
+- ⚡ Fact: I mostly program with music ♩ ♪ ♫ ♬
 
