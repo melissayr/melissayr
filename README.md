@@ -2,11 +2,11 @@ Hi there 👋
 
 Languages and tools:
 
-Programming: Javascript(JQuery) - (Typescript)
-Frontend: HTML - CSS - Bootstrap - materializeweb
-Backend: PHP
-Database: MySQL - MariaDB
-Other: git - gitKraken
+PROGRAMMING: Javascript(JQuery) , (Typescript) //
+FRONTNED: HTML , CSS , Bootstrap , materializeweb //
+BACKEND: PHP // 
+DATABASE: MySQL - MariaDB //
+OTHER : git - gitKraken
 
 
 - 🔭 I’m currently working on a job portal website for my thesis
