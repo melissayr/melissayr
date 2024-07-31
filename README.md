@@ -10,7 +10,9 @@ DIF. FRAMEWORKS <br>
 WORDPRESS<br>
 
 
-- 🔭 I’m currently working on a job portal website for my thesis and for some websites for friends
+- 🔭 I created a job portal website with user login and an administration system in the background for my thesis (PHP and Javascript)
+- 🔭 Made a Website for friends: https://eddiperryfriseure.com/
+- 🔭 I’m currently make websites for some other friends 
 - 🌱 I’m currently learning Python
 - 💬 Ask me about everything you want :)
 - 📫 How to reach me: reim.melissa.y@gmail.com
