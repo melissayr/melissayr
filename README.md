@@ -4,7 +4,7 @@ Languages and tools:
 
 PROGRAMMING: Javascript(JQuery)  <br> 
 FRONTEND: HTML , CSS , Bootstrap , materializeweb <br> 
-BACKEND: PHP <br> 
+BACKEND: PHP, Python basics <br> 
 DATABASE: MySQL - MariaDB <br>
 DIF. FRAMEWORKS <br>
 WORDPRESS<br>
